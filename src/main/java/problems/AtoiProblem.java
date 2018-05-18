@@ -4,7 +4,7 @@ package problems;
  * Hello world!
  *
  */
-public class App 
+public class AtoiProblem
 {
     public static void main( String[] args )
     {
